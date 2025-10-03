@@ -13,7 +13,7 @@ It demonstrates how Excel can be used for **data analysis, visualization, and bu
 - Dashboard design: clear visuals, KPIs, and storytelling with data  
 
 ## 📷 Dashboard Preview   
-![Coffee Sales Dashboard Excell]("Dashboard\dashboard_overview.png")  
+![Coffee Sales Dashboard Excell]("Dashboard/dashboard_overview.png")  
 
 
 ## 🧠 Key Insights from the Dashboard  
